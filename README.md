@@ -1,2 +1,2 @@
 # Whatsapp-Spammer
-A python script to spam your friends whatsapp.
+A python script to spam your friend's whatsapp.
